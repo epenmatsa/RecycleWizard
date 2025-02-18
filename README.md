@@ -1,0 +1,2 @@
+Smart AI Recycling App
+AI app that lets users snap photos or live video of materials to instantly determine how to dispose of them correctly. This tool leverages a trained machine learning model, significantly reducing contamination in recycling streams and promoting eco-friendly habits. Building it involves collecting over 15,000 images of various household items, training the model using Teachable Machine, and integrating the model into this WIX website. This app empowers users to make sustainable choices effortlessly, benefiting both the environment and our future.
